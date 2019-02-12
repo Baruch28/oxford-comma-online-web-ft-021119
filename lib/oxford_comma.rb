@@ -7,8 +7,3 @@ do
 end
  choclate = "kit kat","twist","hersheys kisses","crunch"]
 heavenly = chocolate.join(",")
-
-
-
-
-
