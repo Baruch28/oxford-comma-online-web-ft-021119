@@ -1,4 +1,14 @@
 def oxford_comma(array)
-chocolate = ["kit kat","twist","hersheys kisses","crunch"]
+choclate = "kit kat","twist","hersheys kisses","crunch"]
 heavenly = chocolate.join(",")
 end
+
+do
+end
+ choclate = "kit kat","twist","hersheys kisses","crunch"]
+heavenly = chocolate.join(",")
+
+
+
+
+
