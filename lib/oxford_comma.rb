@@ -8,4 +8,5 @@ chocolate = [kit kat","twist","hersheys kisses","crunch"]
 heavenly = chocolate.join(",")
 
 
-Shoes = ["Nikes, Adidias, Converse, Reebok"]""
+Shoes = ["Nikes, Adidias, Converse, Reebok"]
+collection = shoes.split("/")
