@@ -3,10 +3,10 @@ choclate = "kit kat","twist","hersheys kisses","crunch"]
 heavenly = chocolate.join(",")
 end
 
-do  
+do
 end
  choclate = "kit kat","twist","hersheys kisses","crunch"]
-heavenly = chocolate.join(",") 
+heavenly = chocolate.join(",")
 
 
 
